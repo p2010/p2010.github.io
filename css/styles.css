@@ -1,0 +1,45 @@
+body{
+    border: 5px solid white;
+    background-color:#ffffcc;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 3rem;
+    font-style: oblique;
+    background-image: url("https://wallpapercave.com/wp/wp1813519.jpg");
+}
+p{
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+
+}
+img{
+border:8px solid gray;
+}
+.circle {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.Education{
+    font-size: 2rem;
+    text-align:left;
+}
+ol{
+    font-size: 1rem;
+    text-align: left;
+}
+h2{
+    text-align: left;
+    font-size: 2rem;
+}
+ui,li{
+    text-align: left;
+    font-size: 2rem;
+    
+}
+a{
+    color: #ffffff;
+}
